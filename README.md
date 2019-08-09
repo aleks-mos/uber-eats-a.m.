@@ -9,4 +9,4 @@
 
 **Result**
 
-- [UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- [DATE DEMO LINK](aleks-mos.github.io/uber-eats-a.m./)
