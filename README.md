@@ -9,4 +9,4 @@
 
 **Result**
 
-- [UPDATE DEMO LINK](aleks-mos.github.io/uber-eats-a.m./)
+- [DATE DEMO LINK](aleks-mos.github.io/uber-eats-a.m./)
